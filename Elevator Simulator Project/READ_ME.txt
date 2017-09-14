@@ -1,4 +1,5 @@
 INTRODUCTION
+* This is an elevtor simulator project that drops all the passengers in the elevator and on the floors to their destination.
 
 INPUTS TO SYSTEM LAUNCHER
 * number of floors in building
