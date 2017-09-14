@@ -1,5 +1,5 @@
 INTRODUCTION
-* This is an elevtor simulator project that drops all the passengers in the elevator and on the floors to their destination.
+* This is an elevtor simulator project that drops all the passengers in the elevator and in the waitin area lobbiees to their destination with efficient number of cycles per customer trip.
 
 INPUTS TO SYSTEM LAUNCHER
 * number of floors in building
